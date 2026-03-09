@@ -1,0 +1,19 @@
+{
+    "Nome": "Sarah",
+    "Idade": 17,
+    "Email": "sarah109923753@gmail.com",
+    "Telefone": "(11) 994349820",
+    "CPF": "111.222.333-4",
+    "Linguagem de programação aprendidas": ["JavaScript","Python"],
+    "Cursos": ["Administração", "Pacote office","Inglẽs básico"],
+    "Endereço": {
+        "Rua": "Malméria",
+        "Número": 2424,
+        "Bairro": "Jd. Paulista",
+        "Cidade": "Itapevi",
+        "Estado": "SP"
+    }
+
+
+
+}
