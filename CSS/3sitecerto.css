@@ -1,9 +1,11 @@
-.h1{
-color: rgb(4, 4, 153);
-font-size: 30px;
+#titulo{
+   color: blue;
+   text-align: center;
+   font-size: 30px;
+   line-height: 1;
 }
 
-table{
+#tabela{
     border-collapse: collapse;
 }
 table, td{
@@ -11,7 +13,21 @@ table, td{
 
 }
 
-#titulo{
-    text-align: center;
+.texto{
+color: green;
+font-size: 20px;
+line-height: 2;
 }
 
+#tabela{
+background-color: lightgray
+}
+
+.lista{
+color:red;
+}
+
+img{
+line-height: 2;
+
+}
