@@ -1,0 +1,97 @@
+<html>
+
+<head>
+
+<title>Site de Tecnologia</title>
+
+<style>
+
+#titulo{
+color blue
+font-size 30px
+}
+
+.texto{
+color: green
+font-size:20
+}
+
+#tabela{
+background-color: lightgray
+}
+
+.lista{
+color red;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<center>
+<b id="titulo">Site de Tecnologia</b>
+</center>
+
+<br>
+
+<i class="texto">Bem vindo ao meu site sobre tecnologia</i>
+
+<br><br>
+
+<img>
+
+<br><br>
+
+<h2>Lista de Cursos</h2>
+
+<ul class="list">
+<li>HTML
+<li>CSS
+<li>JavaScript
+</ul>
+
+<br>
+
+<h2>Tabela de Alunos</h2>
+
+<table border="1" id="tabela">
+
+<tr>
+<td>Nome
+<td>Idade
+<td>Curso
+</tr>
+
+<tr>
+<td>Lucas
+<td>22
+<td>HTML
+</tr>
+
+<tr>
+<td>Ana
+<td>19
+<td>CSS
+</tr>
+
+</table>
+
+<br><br>
+
+<a>Clique aqui para saber mais</a>
+
+<br><br>
+
+<div class="rodape">
+
+<center>
+<i>Todos os direitos reservados</i>
+</center>
+
+</div>
+
+<>
+
+</html>
